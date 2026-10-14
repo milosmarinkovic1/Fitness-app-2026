@@ -48,10 +48,10 @@ A full-stack fitness tracking application built with Spring Boot and Vue 3.
 ### Backend
 ```bash
 cd fitness-app
-# Pokreni bazu (PostgreSQL)
+# DB (PostgreSQL)
 docker compose up -d
 
-# Pokreni backend
+# Backend
 ./mvnw spring-boot:run
 ```
 
