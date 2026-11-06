@@ -18,4 +18,4 @@ Thumbs.db
 
 # Environment
 *.env
-application-local.properties
+application-local.propertiesnode_modules/
