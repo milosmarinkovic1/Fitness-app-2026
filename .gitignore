@@ -1,6 +1,5 @@
 # Java / Spring Boot
-fitness-app/target/
-fitness-app/.mvn/
+backend/target/
 *.class
 *.jar
 
@@ -20,5 +19,3 @@ Thumbs.db
 # Environment
 *.env
 application-local.properties
-
-application.properties
